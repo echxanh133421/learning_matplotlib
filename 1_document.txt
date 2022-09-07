@@ -1,1 +1,5 @@
 https://matplotlib.org/devdocs/tutorials/introductory/quick_start.html
+
+https://www.tutorialspoint.com/matplotlib/index.htm
+
+https://www.w3schools.com/python/matplotlib_intro.asp
